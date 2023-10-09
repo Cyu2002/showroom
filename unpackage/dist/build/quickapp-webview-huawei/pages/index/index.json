@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "AIGC展厅开机控制",
+  "usingComponents": {
+    "uni-collapse-item": "../../uni_modules/uni-collapse/components/uni-collapse-item/uni-collapse-item",
+    "uni-collapse": "../../uni_modules/uni-collapse/components/uni-collapse/uni-collapse"
+  }
+}
